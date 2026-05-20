@@ -1,0 +1,6 @@
+{
+  "name": "KakiNovel",
+  "description": "Penerbitan KakiNovel - Mengkurasi Jiwa Kesusasteraan Malaysia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
